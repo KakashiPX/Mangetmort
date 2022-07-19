@@ -7,7 +7,7 @@
 <?php
 $lines = 1;
 
-while ($lines <= 50000)
+while ($lines <= 1000)
 {
     echo 'Manges t\'es morts   numéro: ' . $lines . '<br />';
     $lines++;
